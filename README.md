@@ -17,10 +17,11 @@ A simple, responsive Tesla Car Configurator built with vanilla JavaScript, HTML,
 
 ## Projext Structure
 
+```plaintext
 ├── index.html          # Main HTML file for the configurator
 ├── style.css           # CSS file for styling and responsive design
 └── script.js           # JavaScript file for configurator logic
-
+```
 ## Acknowledgements
 Inspired by the Tesla car configurator. Created as a learning project to practice JavaScript, HTML, and CSS.
 
